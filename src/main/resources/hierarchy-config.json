@@ -1,0 +1,15 @@
+{
+    "brett.company": {
+        "Brett Tronics": {
+            "brett.db.connection": "db.brettTronics",
+            "brett.domain": "www.brett-tronics.com",
+            "brett.department": {
+                "gadgets": {
+                    "brett.db.connection": "db.brettTronics.gadgets",
+                    "brett.location": "South Africa"
+                }
+            }
+        }
+    },
+    "brett.machine.name": "SilverFlame"
+}
