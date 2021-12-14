@@ -1,0 +1,8 @@
+brett:
+  db:
+    _liveconnection: "db_connection_dev_usc"
+    type: "sql_dev_usc_live"
+  cluster:
+    name: "ignite_dev_usc"
+  location: "earth"
+machine: "silverFlame"

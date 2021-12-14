@@ -1,0 +1,7 @@
+brett:
+  db:
+    connection: "db_connection_dev_usc"
+    type: "sql_dev_usc"
+  cluster:
+    name: "ignite_dev_usc"
+machine: "silverFlame"

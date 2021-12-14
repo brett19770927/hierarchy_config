@@ -17,6 +17,7 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
 	implementation 'org.json:json:20211205'
+	implementation 'org.yaml:snakeyaml:1.29'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 

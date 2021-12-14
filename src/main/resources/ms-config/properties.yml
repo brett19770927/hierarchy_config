@@ -1,0 +1,7 @@
+brett:
+  db:
+    connection: "db_connection_toplevel"
+    type: "sql"
+  cluster:
+    name: "ignite"
+machine: "silverFlame"
